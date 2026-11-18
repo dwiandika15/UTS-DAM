@@ -1,0 +1,1472 @@
+[
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 520765236,
+          "osm_key": "shop",
+          "osm_value": "beauty",
+          "type": "house",
+          "name": "Hotel Kuta Bali & Massage",
+          "street": "Jalan Setiabudi",
+          "district": "Kuta",
+          "city": "Kuta",
+          "county": "Badung",
+          "state": "Bali",
+          "country": "Indonesia",
+          "postcode": "80361",
+          "countrycode": "ID",
+          "extent": [
+            115.1809043,
+            -8.7199556,
+            115.1811523,
+            -8.7203095
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.1810302,
+            -8.7201146
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 4182422043,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "The Kuta Beach Heritage Hotel Bali",
+          "street": "Jl. Pantai Kuta",
+          "district": "Kuta",
+          "city": "Banjar Pande Mas, Kuta, Bali",
+          "county": "Badung",
+          "state": "Bali",
+          "country": "Indonesia",
+          "postcode": "80361",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.1698787,
+            -8.720569
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 965830459,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "Inna Kuta Beach Hotel Bali",
+          "street": "Jalan Pantai Kuta",
+          "district": "Kuta",
+          "city": "Kuta, Bali",
+          "county": "Badung",
+          "state": "Bali",
+          "country": "Indonesia",
+          "postcode": "80361",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.1697356,
+            -8.7236315
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 4108807208,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "housenumber": "31",
+          "name": "Bali Diva Kuta Hotel",
+          "street": "Jalan Popies I",
+          "district": "Kuta",
+          "city": "Kuta",
+          "county": "Badung",
+          "state": "Bali",
+          "country": "Indonesia",
+          "postcode": "80361",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.1720035,
+            -8.7209629
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 4418407220,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "Ozz Hotel Kuta Bali",
+          "street": "Jalan Kubu Anyar",
+          "district": "Kuta",
+          "city": "Kuta, Bali, Indonesia",
+          "county": "Badung",
+          "state": "Bali",
+          "country": "Indonesia",
+          "postcode": "80361",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.1730251,
+            -8.7256588
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 4177962721,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "Kuta Central Park Hotel Bali",
+          "street": "Patih Jelantik, Komplek Pertokoan Istana Kuta Galeria",
+          "district": "Kuta",
+          "city": "Badung, Bali",
+          "county": "Badung",
+          "state": "Bali",
+          "country": "Indonesia",
+          "postcode": "80361",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.1793792,
+            -8.7103253
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 4375196312,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "Kuta Central Park Hotel Bali",
+          "street": "Jalan Patih Jelantik",
+          "district": "Kuta",
+          "city": "Kuta, Badung Regency, Bali, Indonesia",
+          "county": "Badung",
+          "state": "Bali",
+          "country": "Indonesia",
+          "postcode": "80361",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.1793494,
+            -8.7102654
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 4177701191,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "housenumber": "83E",
+          "name": "Harris Hotel Raya Kuta - Bali",
+          "street": "Jalan Raya Kuta",
+          "district": "Kuta",
+          "city": "Kuta, Badung, Bali",
+          "county": "Badung",
+          "state": "Bali",
+          "country": "Indonesia",
+          "postcode": "80361",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.1769146,
+            -8.7289904
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "R",
+          "osm_id": 6193823,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "housenumber": "99",
+          "name": "Hotel Episode Kuta Bali",
+          "street": "Jalan Bypass Ngurah Rai",
+          "district": "Kuta",
+          "city": "Kuta",
+          "county": "Badung",
+          "state": "Bali",
+          "country": "Indonesia",
+          "postcode": "80362",
+          "countrycode": "ID",
+          "extent": [
+            115.1845301,
+            -8.7219104,
+            115.1850385,
+            -8.722599
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.1849792,
+            -8.7222047
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 4177957208,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "housenumber": "21",
+          "name": "Bedrock Hotel Kuta Bali",
+          "street": "Jalan Wana Segara",
+          "district": "Kuta",
+          "city": "Badung",
+          "county": "Badung",
+          "state": "Bali",
+          "country": "Indonesia",
+          "postcode": "80361",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.1664939,
+            -8.7373795
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 560615648,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "housenumber": "81",
+          "name": "Grand Zuri Hotel Kuta Bali",
+          "street": "Jalan Raya Kuta",
+          "district": "Kuta",
+          "city": "Badung",
+          "county": "Badung",
+          "state": "Bali",
+          "country": "Indonesia",
+          "postcode": "80361",
+          "countrycode": "ID",
+          "extent": [
+            115.1813316,
+            -8.711628,
+            115.1820372,
+            -8.7119912
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.1816803,
+            -8.7118273
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 4180262885,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "housenumber": "42",
+          "name": "EDEN Hotel Kuta Bali",
+          "street": "Jalan Kartika Plaza",
+          "district": "Kuta",
+          "city": "Badung, Bali",
+          "county": "Badung",
+          "state": "Bali",
+          "country": "Indonesia",
+          "postcode": "80361",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.1674003,
+            -8.7330571
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 596095826,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "housenumber": "88A",
+          "name": "Atanaya Hotel - Kuta, Bali",
+          "street": "Jl. Sunset Road",
+          "district": "Legian",
+          "city": "Kuta, Kabupaten Badung, Bali, Indonesia",
+          "county": "Badung",
+          "state": "Bali",
+          "country": "Indonesia",
+          "postcode": "80362",
+          "countrycode": "ID",
+          "extent": [
+            115.180142,
+            -8.703477,
+            115.1806344,
+            -8.7038525
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.1803882,
+            -8.7036647
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 564187551,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "Bali Chaya Hotel Legian Kuta - Bali",
+          "street": "Gang XXI",
+          "district": "Legian",
+          "city": "Kuta",
+          "county": "Badung",
+          "state": "Bali",
+          "country": "Indonesia",
+          "postcode": "80361",
+          "countrycode": "ID",
+          "extent": [
+            115.167361,
+            -8.7009505,
+            115.1675233,
+            -8.7010566
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.1674422,
+            -8.7010035
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 4177770587,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "housenumber": "77",
+          "name": "Hotel Ibis Bali Kuta",
+          "street": "Jalan Raya Kuta",
+          "district": "Kuta",
+          "city": "Kuta, Badung, Bali",
+          "county": "Badung",
+          "state": "Bali",
+          "country": "Indonesia",
+          "postcode": "80361",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.177608,
+            -8.733678
+          ]
+        }
+      }
+    ],
+    "destination_cluster": "Bali Greater Hub"
+  },
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 9239838497,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "Hotel Maharaja Borobudur",
+          "street": "Jalan Salaman - Mungkid",
+          "city": "Kembanglimus",
+          "county": "Magelang",
+          "state": "Jawa Tengah",
+          "country": "Indonesia",
+          "postcode": "56553",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.1797402,
+            -7.5956684
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 5739317834,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "housenumber": "2",
+          "name": "OYO 860 Rajasa Hotel",
+          "street": "Jalan Badrawati",
+          "city": "Borobudur",
+          "county": "Magelang",
+          "state": "Jawa Tengah",
+          "country": "Indonesia",
+          "postcode": "56553",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.2082289,
+            -7.6113769
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 3936946162,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "Pondok Tingal Hotel",
+          "street": "Jalan Balaputera Dewa",
+          "district": "Wanurejo",
+          "city": "Borobudur",
+          "county": "Magelang",
+          "state": "Jawa Tengah",
+          "country": "Indonesia",
+          "postcode": "56553",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.2163713,
+            -7.6058413
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 1188907751,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "Manohara, Pusat Studi Borobudur",
+          "street": "Jalan Badrawati",
+          "city": "Borobudur, Jawa Tengah, Indonesia",
+          "county": "Magelang",
+          "state": "Jawa Tengah",
+          "country": "Indonesia",
+          "postcode": "56553",
+          "countrycode": "ID",
+          "extent": [
+            110.2052736,
+            -7.6082267,
+            110.207575,
+            -7.610541
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.2067837,
+            -7.6093379
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 121297859,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "Hotel Borobudur Terminal Jombor",
+          "street": "Jalan Magelang",
+          "district": "Sendangadi",
+          "city": "Mlati",
+          "county": "Sleman",
+          "state": "Yogyakarta",
+          "country": "Indonesia",
+          "postcode": "55285",
+          "countrycode": "ID",
+          "extent": [
+            110.3620657,
+            -7.748189,
+            110.3622243,
+            -7.7483444
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.362145,
+            -7.7482666
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 1093085195,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "the Nalaya Hotel & Resto",
+          "street": "Jl. Balaputradewa No. 22",
+          "district": "Wanurejo",
+          "city": "Magelang",
+          "county": "Magelang",
+          "state": "Jawa Tengah",
+          "country": "Indonesia",
+          "postcode": "56553",
+          "countrycode": "ID",
+          "extent": [
+            110.2132505,
+            -7.6067884,
+            110.2133778,
+            -7.6068719
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.2133142,
+            -7.6068301
+          ]
+        }
+      }
+    ],
+    "destination_cluster": "Borobudur Jawa Tengah"
+  },
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 1365315031,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "Danau Toba Cottages",
+          "street": "Jalan Kpt. Karmel Napitupulu",
+          "city": "Parapat",
+          "county": "Simalungun",
+          "state": "Sumatera Utara",
+          "country": "Indonesia",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            98.9308286,
+            2.6597079
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 519557786,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "Hotel Danau Toba International",
+          "city": "Tiga Raja",
+          "county": "Simalungun",
+          "state": "Sumatera Utara",
+          "country": "Indonesia",
+          "countrycode": "ID",
+          "extent": [
+            98.9340812,
+            2.6647513,
+            98.9346208,
+            2.6642586
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            98.934351,
+            2.664505
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 288597918,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "Hotel Danau Toba International",
+          "street": "Jalan Palang Merah",
+          "locality": "Kampung Madras",
+          "district": "Petisah Tengah",
+          "city": "Medan",
+          "state": "Sumatera Utara",
+          "country": "Indonesia",
+          "postcode": "20112",
+          "countrycode": "ID",
+          "extent": [
+            98.6753686,
+            3.5841294,
+            98.6774127,
+            3.5816481
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            98.6764571,
+            3.5831387
+          ]
+        }
+      }
+    ],
+    "destination_cluster": "Danau Toba Sumatera Utara"
+  },
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 127718971,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "Kuta Inda Hotel",
+          "street": "Jalan Selong Belanak - Kuta",
+          "locality": "Mandalika Resort Area",
+          "district": "Baturiti",
+          "city": "Kuta",
+          "county": "Lombok Tengah",
+          "state": "Nusa Tenggara Barat",
+          "country": "Indonesia",
+          "postcode": "83573",
+          "countrycode": "ID",
+          "extent": [
+            116.2717706,
+            -8.8908893,
+            116.2730364,
+            -8.8920038
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.2723516,
+            -8.8914473
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 4930808227,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "JM Hotel",
+          "street": "Jalan Selong Belanak - Kuta",
+          "locality": "Mandalika Resort Area",
+          "district": "Gubukbaru",
+          "city": "Kuta",
+          "county": "Lombok Tengah",
+          "state": "Nusa Tenggara Barat",
+          "country": "Indonesia",
+          "postcode": "83573",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.2795053,
+            -8.8896521
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 4248253389,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "Dream Cowork Hotel",
+          "street": "Jalan Selong Belanak - Kuta",
+          "locality": "Mandalika Resort Area",
+          "district": "Gubukbaru",
+          "city": "Kuta",
+          "county": "Lombok Tengah",
+          "state": "Nusa Tenggara Barat",
+          "country": "Indonesia",
+          "postcode": "83573",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.2811335,
+            -8.8918968
+          ]
+        }
+      }
+    ],
+    "destination_cluster": "Mandalika Lombok NTB"
+  },
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 6738957566,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "Hotel Bonne Nuit",
+          "street": "Gang Evllar",
+          "district": "Labuan Bajo",
+          "city": "labuan bajo",
+          "county": "Manggarai Barat",
+          "state": "Nusa Tenggara Timur",
+          "country": "Indonesia",
+          "postcode": "86763",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            119.8851553,
+            -8.4905288
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 14331036391,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "El Nipa Hotel",
+          "street": "Jalan Mgr Van Beckum",
+          "district": "Wae Kelambu",
+          "city": "Labuan Bajo",
+          "county": "Manggarai Barat",
+          "state": "Nusa Tenggara Timur",
+          "country": "Indonesia",
+          "postcode": "86763",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            119.8906744,
+            -8.4949513
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 6427911371,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "Surya Hotel",
+          "street": "Jalan Soekarno Hatta",
+          "district": "Labuan Bajo",
+          "city": "Labuan Bajo",
+          "county": "Manggarai Barat",
+          "state": "Nusa Tenggara Timur",
+          "country": "Indonesia",
+          "postcode": "86754",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            119.8810834,
+            -8.4967982
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 4213559292,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "CF komodo hotel",
+          "street": "Private Straße / Weg",
+          "district": "Labuan Bajo",
+          "city": "Labuan Bajo",
+          "county": "Manggarai Barat",
+          "state": "Nusa Tenggara Timur",
+          "country": "Indonesia",
+          "postcode": "86754",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            119.8816368,
+            -8.4924703
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 11888338805,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "housenumber": "081138795888",
+          "name": "Zasgo Hotel",
+          "street": "Jalan Soekarno Hatta",
+          "locality": "Zasgo Hotel",
+          "district": "Labuan Bajo",
+          "city": "Labuan Bajo",
+          "county": "Manggarai Barat",
+          "state": "Nusa Tenggara Timur",
+          "country": "Indonesia",
+          "postcode": "86763",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            119.8827435,
+            -8.4985762
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 1172106831,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "Hotel Meruorah",
+          "street": "Jalan Soekarno Hatta",
+          "district": "Labuan Bajo",
+          "city": "Labuan Bajo",
+          "county": "Manggarai Barat",
+          "state": "Nusa Tenggara Timur",
+          "country": "Indonesia",
+          "postcode": "86554",
+          "countrycode": "ID",
+          "extent": [
+            119.8746818,
+            -8.4892609,
+            119.8763141,
+            -8.4913073
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            119.8754867,
+            -8.4903033
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 1289610747,
+          "osm_key": "amenity",
+          "osm_value": "reception_desk",
+          "type": "house",
+          "name": "Hotel Bonne Nuit",
+          "street": "Gang Evllar",
+          "district": "Labuan Bajo",
+          "city": "labuan bajo",
+          "county": "Manggarai Barat",
+          "state": "Nusa Tenggara Timur",
+          "country": "Indonesia",
+          "postcode": "86763",
+          "countrycode": "ID",
+          "extent": [
+            119.8850884,
+            -8.4904428,
+            119.8852298,
+            -8.4906089
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            119.885152,
+            -8.4905456
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 1289610747,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "Hotel Bonne Nuit",
+          "street": "Gang Evllar",
+          "district": "Labuan Bajo",
+          "city": "labuan bajo",
+          "county": "Manggarai Barat",
+          "state": "Nusa Tenggara Timur",
+          "country": "Indonesia",
+          "postcode": "86763",
+          "countrycode": "ID",
+          "extent": [
+            119.8850884,
+            -8.4904428,
+            119.8852298,
+            -8.4906089
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            119.885152,
+            -8.4905456
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 6738957566,
+          "osm_key": "amenity",
+          "osm_value": "reception_desk",
+          "type": "house",
+          "name": "Hotel Bonne Nuit",
+          "street": "Gang Evllar",
+          "district": "Labuan Bajo",
+          "city": "labuan bajo",
+          "county": "Manggarai Barat",
+          "state": "Nusa Tenggara Timur",
+          "country": "Indonesia",
+          "postcode": "86763",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            119.8851553,
+            -8.4905288
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 5800042653,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "Komodo Boutique Hotel",
+          "street": "Gang Ratu Damai",
+          "district": "Wae Kelambu",
+          "city": "Labuan Bajo",
+          "county": "Manggarai Barat",
+          "state": "Nusa Tenggara Timur",
+          "country": "Indonesia",
+          "postcode": "86753",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            119.9024779,
+            -8.5064345
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 3293560049,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "L BAJO HOTEL KOMODO",
+          "street": "Jalan Soekarno Hatta",
+          "district": "Labuan Bajo",
+          "city": "Labuan Bajo",
+          "county": "Manggarai Barat",
+          "state": "Nusa Tenggara Timur",
+          "country": "Indonesia",
+          "postcode": "86763",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            119.8828068,
+            -8.498902
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 14022294501,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "Hotel Bajo",
+          "street": "Jalan Soekarno Hatta",
+          "district": "Labuan Bajo",
+          "city": "Labuan Bajo",
+          "county": "Manggarai Barat",
+          "state": "Nusa Tenggara Timur",
+          "country": "Indonesia",
+          "postcode": "86754",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            119.8781554,
+            -8.4934058
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 13984478001,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "Wae Molas Hotel",
+          "street": "Jalan Soekarno-Hatta",
+          "district": "Labuan Bajo",
+          "city": "Manggarai Barat",
+          "county": "Manggarai Barat",
+          "state": "Nusa Tenggara Timur",
+          "country": "Indonesia",
+          "postcode": "86763",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            119.882142,
+            -8.49946
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 1365100740,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "housenumber": "13",
+          "name": "Katamaran Hotel & Resort Komodo",
+          "street": "Jalan Pantai Wae Cicu",
+          "district": "Labuan Bajo",
+          "city": "Manggarai Barat",
+          "county": "Manggarai Barat",
+          "state": "Nusa Tenggara Timur",
+          "country": "Indonesia",
+          "postcode": "86554",
+          "countrycode": "ID",
+          "extent": [
+            119.8759664,
+            -8.4709406,
+            119.8773368,
+            -8.4719911
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            119.8766395,
+            -8.4714063
+          ]
+        }
+      }
+    ],
+    "destination_cluster": "Labuan Bajo Flores NTT"
+  },
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 11428713869,
+          "osm_key": "tourism",
+          "osm_value": "apartment",
+          "type": "house",
+          "name": "Cemara Hijau Hotel Bromo",
+          "street": "Villagers Trail to Bromo",
+          "district": "Midangan",
+          "city": "Cemorolawang",
+          "county": "Probolinggo",
+          "state": "Jawa Timur",
+          "country": "Indonesia",
+          "postcode": "67254",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            112.9634423,
+            -7.9214509
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 12163630402,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "Bromo Park Hotel",
+          "street": "Jalan Dokter Sutomo",
+          "district": "Mangunharjo",
+          "city": "Probolinggo",
+          "state": "Jawa Timur",
+          "country": "Indonesia",
+          "postcode": "67214",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            113.217576,
+            -7.7485133
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 2386276857,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "housenumber": "327",
+          "name": "Hotel Bromo Permai II",
+          "street": "Jalan Panglima Sudirman",
+          "district": "Kebonsari Kulon",
+          "city": "Probolinggo",
+          "state": "Jawa Timur",
+          "country": "Indonesia",
+          "postcode": "67214",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            113.2237244,
+            -7.7568548
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 420040617,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "housenumber": "KM 31",
+          "name": "Hotel Nadia",
+          "street": "Jalan Raya Bromo",
+          "district": "Tambaksari",
+          "city": "Probolinggo",
+          "county": "Probolinggo",
+          "state": "Jawa Timur",
+          "country": "Indonesia",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            113.0428328,
+            -7.9013491
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 12955888301,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "Cemara Indah Hotel",
+          "street": "Villagers Trail to Bromo",
+          "district": "Midangan",
+          "city": "Cemorolawang",
+          "county": "Probolinggo",
+          "state": "Jawa Timur",
+          "country": "Indonesia",
+          "postcode": "67254",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            112.9636875,
+            -7.9219375
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 3773114670,
+          "osm_key": "tourism",
+          "osm_value": "hostel",
+          "type": "house",
+          "name": "Hotel Sion View",
+          "street": "Jalan Raya Bromo",
+          "district": "Cemorokandang",
+          "city": "Wonokerto",
+          "county": "Probolinggo",
+          "state": "Jawa Timur",
+          "country": "Indonesia",
+          "postcode": "67254",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            112.9989514,
+            -7.9201525
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 4326452091,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "housenumber": "KM 5",
+          "name": "Lava Lava",
+          "street": "Jl. Raya Bromo",
+          "district": "Triwung Lor",
+          "city": "Probolinggo",
+          "state": "Jawa Timur",
+          "country": "Indonesia",
+          "postcode": "67227",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            113.1748981,
+            -7.7616596
+          ]
+        }
+      }
+    ],
+    "destination_cluster": "Bromo Tengger Semeru"
+  },
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 5097311433,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "Afud dive resort",
+          "street": "Jalan Raya Waisai",
+          "city": "Waisai",
+          "county": "Raja Ampat",
+          "state": "Papua Barat Daya",
+          "country": "Indonesia",
+          "postcode": "98482",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            130.7683591,
+            -0.4379941
+          ]
+        }
+      }
+    ],
+    "destination_cluster": "Raja Ampat Papua Barat"
+  },
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "N",
+          "osm_id": 13138207877,
+          "osm_key": "highway",
+          "osm_value": "bus_stop",
+          "type": "house",
+          "name": "Paradise Resort Likupang",
+          "city": "Marinsow",
+          "county": "Minahasa Utara",
+          "state": "Sulawesi Utara",
+          "country": "Indonesia",
+          "countrycode": "ID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            125.1208362,
+            1.6733596
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 154570535,
+          "osm_key": "tourism",
+          "osm_value": "hotel",
+          "type": "house",
+          "name": "Kima Bajo Resort & Spa",
+          "street": "Jalan Wori Likupang",
+          "city": "Lantung",
+          "county": "Minahasa Utara",
+          "state": "Sulawesi Utara",
+          "country": "Indonesia",
+          "countrycode": "ID",
+          "extent": [
+            124.8686279,
+            1.6063769,
+            124.8707463,
+            1.6042259
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            124.8695889,
+            1.6053124
+          ]
+        }
+      }
+    ],
+    "destination_cluster": "Likupang Sulawesi Utara"
+  }
+]
