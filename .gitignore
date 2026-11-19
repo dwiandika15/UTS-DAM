@@ -1,0 +1,4 @@
+.env
+*.zip
+.config/
+sample_data/
